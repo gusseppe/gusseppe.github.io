@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Gusseppe Bravo-Rocca"
-  avatar           : "profile.png"
+  avatar           : "foto.png"
   bio              : "Artificial Intelligence Engineer"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=dN0nUcIAAAAJ&hl=es"
   email            : "gusseppebravo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Gusseppe_Rocca"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "gusseppe"
   google_plus      :
   keybase          :
   instagram        :
