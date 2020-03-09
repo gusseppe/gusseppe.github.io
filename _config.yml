@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gusseppe Bravo-Rocca / Personal web"
+title                    : "Gusseppe Bravo-Rocca"
 title_separator          : "-"
 name                     : &name "Gusseppe Bravo-Rocca"
-description              : &description "personal description"
+description              : &description "If I can't draw it, I can't get it"
 url                      : https://gusseppe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gusseppe/gusseppe.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Gusseppe Bravo-Rocca"
   avatar           : "foto.jpeg"
   bio              : "Artificial Intelligence Engineer"
-  location         : "Location"
+  location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dN0nUcIAAAAJ&hl=es"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6824-1124"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
