@@ -83,7 +83,7 @@ author:
   name             : "Gusseppe Bravo-Rocca"
   avatar           : "foto.jpeg"
   bio              : "Artificial Intelligence Engineer"
-  location         : "Barcelona, Spain"
+  location         : "New York, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dN0nUcIAAAAJ&hl=es"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gusseppebravo/"
   orcid            : "https://orcid.org/0000-0001-6824-1124"
   pinterest        :
   soundcloud       :
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
