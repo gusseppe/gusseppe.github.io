@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "If I can't draw it, I can't get it"
+title: "A brief description about me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,24 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-A brief description about me
-======
 
-- AI Research Engineer at Barcelona Supercomputing Center, Spain.
+## 👨‍💻 AI Research Engineer with Hacking skills 💻
+### Continual Learning for Agents | Trustworthy AI | MLOps
 
-- Creator of Pymach, Sparkmach and Scanflow, tools that aim to accelerate the deployment of Machine Learning workflows.
+Hi there! I'm Gusseppe Bravo, a passionate AI Research Engineer with several years of experience working on Production ML systems, Continual Learning, Trustworthy AI, AI agents and MLOps. I am currently working at the Barcelona Supercomputing Center, where I get to work with one of the world's top supercomputers.
 
-- Machine Learning and High Perfomance Computing (HPC) researcher at CTIC - UNI, Perú.
+### 🤝 Collaboration
 
-- MSc. student in Artificial Inteligence at Universitat Politècnica de Catalunya, Spain.
+Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustworthy AI.
 
-- 4 years of experience in Artificial Intelligence and Distributed Computing projects, developing solutions for indoor localization, traffic flow, NLP and data science.
+Also, I'm an intern PhD student at Emory University, developing a cognitive architecture for diabetic retinopathy models.
 
-- Python, C, C++ developer with several open source libraries in Numerical Analysis, Data science and Big data.
+### 💻 Skills
+My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. Linux is my virtual home.
 
-- I dream about creating a new cutting-edge algorithm that can represent data in a way that we can automate intelligent tasks as simple as it is recognizing images, understanding audio or reading texts for humans. 
+### 🔬 Experience
+- Continual Learning, Domain Incremental learning.
+- Debugging Machine Learning models using AutoEncoders, Active Learning, and Interactive ML.
+- Trustworthiness: Drift detection using Trust scores. 
+- Multiagents: Applied to Monitoring, Checking and Planning of ML models.
+- Language agents: Cognitive architectures for custom tasks (e.g, Monitoring ML models). 
+- MLOps: Custom implementations for Pipeline development, CI/CD, Serving and Monitoring.
 
+### 🌟 Personal Goal
+I dream of creating an AI system that learns to adapt to different scenarios in real-time, just as humans adapt to situations naturally.
 
-For more info
-------
-Check my complete bio in each tab.
+### 📫 Let's Connect!
+If you're interested in connecting with me, feel free to send me a message or connect with me on [LinkedIn](https://www.linkedin.com/in/gusseppebravo/)!
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gusseppebravo/)
