@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-aamas-feature-engineering-agents
+excerpt: 'This paper presents an adaptive cognitive architecture for interpretable machine learning monitoring in agent systems.'
+date: 2025-01-01
+venue: 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS)'
+paperurl: ''
+citation: 'Bravo-Rocca, G., et al. (2025). &quot;Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring.&quot; <i>International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Detroit, USA.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents an adaptive cognitive architecture for interpretable machine learning monitoring in agent systems. The work was accepted at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025 in Detroit, USA.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Bravo-Rocca, G., et al. (2025). "Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring." <i>International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Detroit, USA.
