@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 2"
+title: "MLOps and AI Systems Training"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Industry Training"
+permalink: /teaching/2022-2025-industry-training
+venue: "Barcelona Supercomputing Center & Lenovo"
+date: 2022-01-01
+location: "Barcelona, Spain / Remote"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led training sessions and knowledge transfer on MLOps, AI system reliability, and production ML deployment for industry partners and research teams.
 
-Heading 1
-======
+## Training Topics
 
-Heading 2
-======
+- Production-grade AI system design
+- MLOps best practices and frameworks
+- Model monitoring and drift detection
+- Continual learning implementation
+- AI agent architectures
 
-Heading 3
-======
+## Key Contributions
+
+- Developed training materials for Scanflow framework
+- Led workshops on cognitive architectures
+- Mentored junior researchers on ML production systems
+- Created documentation for enterprise AI deployment

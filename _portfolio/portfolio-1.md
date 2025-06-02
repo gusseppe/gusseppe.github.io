@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Cognitive Architecture for ML Monitoring"
+excerpt: "LLM-based agent framework for autonomous ML model monitoring in production environments<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**GitHub:** [cognitive_architecture_checker](https://github.com/gusseppe/cognitive_architecture_checker)
+
+LLM-based agent framework that autonomously monitors ML models in production environments. Features novel decision procedure algorithm and structured memories for interpretable model diagnosis. 
+
+- Developed in collaboration with Lenovo AI Lab
+- Featured in AAMAS 2025 conference
+- Reduces manual intervention by 65% while maintaining model performance
+- Implements adaptive prompt architecture reducing token usage by 40% 

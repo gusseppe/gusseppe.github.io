@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gusseppe Bravo-Rocca"
+title                    : "Gusseppe Bravo"
 title_separator          : "-"
-name                     : &name "Gusseppe Bravo-Rocca"
+name                     : &name "Gusseppe Bravo"
 description              : &description "If I can't draw it, I can't get it"
 url                      : https://gusseppe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gusseppe Bravo-Rocca"
-  avatar           : "foto.jpeg"
+  name             : "Gusseppe Bravo"
+  avatar           : "picture_linkedin.JPG"
   bio              : "Artificial Intelligence Engineer"
   location         : "New York, United States"
   employer         :

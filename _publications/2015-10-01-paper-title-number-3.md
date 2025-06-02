@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Experience Replay and Zero-shot Clustering for Continual Learning in Diabetic Retinopathy Detection"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-visapp-diabetic-retinopathy
+excerpt: 'Novel approach combining experience replay and zero-shot clustering for continual learning in healthcare, shortlisted for Best Student Paper Award.'
+date: 2025-02-26
+venue: 'International Conference on Computer Vision Theory and Applications (VISAPP)'
+paperurl: ''
+citation: 'Bravo-Rocca, G., et al. (2025). &quot;Experience Replay and Zero-shot Clustering for Continual Learning in Diabetic Retinopathy Detection.&quot; <i>VISAPP 2025</i>. Porto, Portugal.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper presents TADILER, an approach combining experience replay and zero-shot clustering for continual learning in diabetic retinopathy detection. The work was shortlisted for the Best Student Paper Award at VISAPP 2025, improving accuracy up to 3.1% on diverse patient populations.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Bravo-Rocca, G., et al. (2025). "Experience Replay and Zero-shot Clustering for Continual Learning in Diabetic Retinopathy Detection." <i>VISAPP 2025</i>. Porto, Portugal.

@@ -1,19 +1,28 @@
 ---
-title: "Teaching experience 1"
+title: "AI Research Mentoring at Emory University"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Research Mentoring"
+permalink: /teaching/2023-2024-emory-mentoring
+venue: "Emory Global Diabetes Research Center"
+date: 2023-07-01
+location: "Atlanta, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Research mentoring and collaboration at Emory Global Diabetes Research Center focusing on continual learning applications for health and epidemiological research.
 
-Heading 1
-======
+## Research Areas Covered
 
-Heading 2
+- Continual learning for healthcare applications
+- Domain adaptation for medical imaging
+- Multi-agent systems using Large Language Models
+- Interactive machine learning with expert feedback
+
+## Key Achievements
+
+- Developed cognitive architecture for LLM-agents
+- Created decision-making procedures for cost-efficient resource use
+- Published 3 papers on continual learning for medical imaging
+- One paper shortlisted for Best Student Paper Award at VISAPP 2025
 ======
 
 Heading 3
