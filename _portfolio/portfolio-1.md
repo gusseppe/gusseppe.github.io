@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Architecture for ML Monitoring"
-excerpt: "LLM-based agent framework for autonomous ML model monitoring in production environments<br/><img src='/images/500x300.png'>"
+excerpt: "LLM-based agent framework for autonomous ML model monitoring in production environments<br/><img src='/images/cama.jpg'>"
 collection: portfolio
 ---
 
