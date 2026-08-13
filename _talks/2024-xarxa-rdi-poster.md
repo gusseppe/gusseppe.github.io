@@ -6,6 +6,7 @@ permalink: /talks/2024-xarxa-rdi-poster
 venue: "Xarxa RDI-IA Annual Conference"
 date: 2024-05-22
 location: "Barcelona, Spain"
+excerpt: "Poster on TADIL at the Xarxa RDI-IA Annual Conference, organized by AGAUR."
 ---
 
 **Poster:** "TADIL: Task-Agnostic Domain-Incremental Learning"

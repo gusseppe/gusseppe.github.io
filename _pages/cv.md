@@ -67,7 +67,7 @@ Linux, Python, PyTorch, Numba, LangGraph, AutoGen, Langchain, transformers, MLfl
 
 - **PhD in Artificial Intelligence**, UPC BarcelonaTech, Spain (2021-2025)
   - Research focus: "Human-on-the-loop Continual Learning: Data, Knowledge and Agents for Model Adaptation"
-  - **Highest honors: Cum laude** ([See my thesis here](https://upcommons.upc.edu/bitstreams/639f08ed-1b50-44bc-8cf3-f8bad8a70601/download))
+  - **Highest honors: Cum laude** ([Thesis: UPC repository](https://upcommons.upc.edu/bitstreams/639f08ed-1b50-44bc-8cf3-f8bad8a70601/download) - [TDX](https://global.tdx.cat/bitstream/handle/10803/695722/TGJBR1de1.pdf))
 - **MSc in Artificial Intelligence**, UPC BarcelonaTech, Spain (2019-2021)
   - Thesis: "Scanflow: A Learning-symbolic Framework for ML Workflow Debugging"
   - **Published in Expert Systems With Applications (Impact Factor: 8.665)**
@@ -76,12 +76,30 @@ Linux, Python, PyTorch, Numba, LangGraph, AutoGen, Langchain, transformers, MLfl
 
 # Publications
 
-- **Adaptive Prompt Evolution.** *Springer Nature*, 2026. [Link](https://link.springer.com/article/10.1007/s42979-026-05036-y)
-- **KC-Agent.** *IEEE COMPSAC*, 2026. [arXiv](https://arxiv.org/abs/2608.02351)
-- **Bravo-Rocca, G.**, et al. (2025). "Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring." *AAMAS 2025*. [ACM DL](https://dl.acm.org/doi/10.5555/3709347.3743552)
-- **Bravo-Rocca, G.**, et al. (2025). "Experience Replay and Zero-shot Clustering for Continual Learning in Diabetic Retinopathy Detection." *VISAPP 2025*. Porto, Portugal. **[Best Student Paper Award Finalist]**
-- **Bravo-Rocca, G.**, et al. (2024). "TADIL: Task-Agnostic Domain-Incremental Learning through Task-ID Inference using Transformer Nearest-Centroid Embeddings." *ICPR 2024*. Kolkata, India. **[Oral Presentation]** [Springer](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_22)
-- **Bravo-Rocca, G.**, et al. (2024). "Scanflow: Multi-graph framework for Machine Learning workflow management, supervision, and debugging." *Expert Systems With Applications*. **[Impact Factor: 8.665]** [ACM DL](https://dl.acm.org/doi/10.1016/j.eswa.2022.117232)
+**2026**
+- **KC-Agent: A Dual-Process Cognitive Architecture for Efficient ML Model Improvement.** *IEEE COMPSAC 2026*. [arXiv](https://arxiv.org/abs/2608.02351)
+- **Adaptive Prompt Evolution for Continual Learning in Diabetic Retinopathy Detection.** *SN Computer Science (Springer Nature)*. [Link](https://link.springer.com/article/10.1007/s42979-026-05036-y)
+
+**2025**
+- **PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams - Dataset Construction and Evaluation.** *arXiv*. [Link](https://arxiv.org/abs/2509.11517)
+- **Bravo-Rocca, G.**, et al. "Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring." *AAMAS 2025*. [ACM DL](https://dl.acm.org/doi/10.5555/3709347.3743552) - [arXiv](https://arxiv.org/abs/2506.09742)
+- **Bravo-Rocca, G.**, et al. "Experience Replay and Zero-shot Clustering for Continual Learning in Diabetic Retinopathy Detection." *VISAPP 2025*. Porto, Portugal. **[Best Student Paper Award Finalist]** [DOI](https://doi.org/10.5220/0013128600003912)
+
+**2024**
+- **Bravo-Rocca, G.**, et al. "TADIL: Task-Agnostic Domain-Incremental Learning through Task-ID Inference using Transformer Nearest-Centroid Embeddings." *ICPR 2024*. Kolkata, India. **[Oral Presentation]** [Springer](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_22) - [arXiv](https://arxiv.org/abs/2306.11955)
+
+**2022**
+- **Bravo-Rocca, G.**, et al. "Scanflow: Multi-graph framework for Machine Learning workflow management, supervision, and debugging." *Expert Systems With Applications*. **[Impact Factor: 8.665]** [ACM DL](https://dl.acm.org/doi/10.1016/j.eswa.2022.117232)
+- **Scanflow-K8s: Agent-based Framework for Autonomic Management and Supervision of ML Workflows in Kubernetes Clusters.** *IEEE CCGrid 2022*. [DOI](https://doi.org/10.1109/CCGrid54584.2022.00047)
+- **Human-in-the-loop online multi-agent approach to increase trustworthiness in ML models through trust scores and data augmentation.** *IEEE COMPSAC 2022*. [DOI](https://doi.org/10.1109/COMPSAC54236.2022.00014)
+
+**2021 and earlier**
+- Scanflow: an end-to-end agent-based autonomic ML workflow manager for clusters. *ACM Middleware 2021 (Demo/Poster)*. [DOI](https://doi.org/10.1145/3491086.3492468)
+- Energy-Aware Dynamic Pricing Model for Cloud Environments. *GECON 2019*. [DOI](https://doi.org/10.1007/978-3-030-36027-6_7)
+- Sparkmach: A Distributed Data Processing System Based on Automated Machine Learning for Big Data. *SIMBig 2018*. [DOI](https://doi.org/10.1007/978-3-030-11680-4_13)
+- Bluetooth-based indoor localization mechanisms. *Sensors 2017* (two papers); Citizen security using machine learning algorithms through open data. *LATINCOM 2016*
+
+Full list on [DBLP](https://dblp.org/pid/193/5562.html)
 
 # Awards and Recognition
 
@@ -95,6 +113,10 @@ Linux, Python, PyTorch, Numba, LangGraph, AutoGen, Langchain, transformers, MLfl
   - LLM-based agent framework that **autonomously monitors ML models** in production environments
   - Novel **decision procedure algorithm** and **structured memories** for interpretable model diagnosis
   - Featured in **AAMAS 2025 conference**; developed in collaboration with Lenovo AI Lab
+  - Successor: **KC-Agent** ([arXiv](https://arxiv.org/abs/2608.02351)), IEEE COMPSAC 2026
+- **TADIL / TADILER** ([github.com/gusseppe/TADIL](http://www.github.com/gusseppe/TADIL) - [github.com/gusseppe/tadiler](http://www.github.com/gusseppe/tadiler))
+  - Task-agnostic domain-incremental learning via transformer nearest-centroid embeddings (**6% improvement**, no task labels)
+  - Listed as official software at BSC: [TADIL](https://www.bsc.es/research-and-development/software-and-apps/software-list/tadil-task-agnostic-domain-incremental) - [TADILER](https://www.bsc.es/research-and-development/software-and-apps/software-list/tadiler-experience-replay-zero-shot)
 - **Scanflow** ([github.com/gusseppe/scanflow](http://www.github.com/gusseppe/scanflow))
   - **Production-grade MLOps** framework for ML workflow management, debugging, and reliability
   - Many projects were inspired by this framework (Scanflow-k8s, CAMA, KC-Agent)

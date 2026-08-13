@@ -6,6 +6,7 @@ permalink: /talks/2026-cotiviti-press
 venue: "Cotiviti"
 date: 2026-04-15
 location: "Online Publication"
+excerpt: "Press contribution highlighting the cognitive architectures being built at Cotiviti to help ML models adapt to real-world change."
 ---
 
 **Article:** "Helping Machine Learning Models Adapt to Change"

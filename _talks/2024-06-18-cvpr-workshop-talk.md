@@ -6,6 +6,7 @@ permalink: /talks/2024-cvpr-workshop-continual-learning
 venue: "CVPR Workshop: LatinX in Computer Vision Research"
 date: 2024-06-18
 location: "Seattle, USA"
+excerpt: "Extended abstract on continual learning in diabetic retinopathy at the LatinX in Computer Vision Research Workshop (CVPR 2024)."
 ---
 
 **Paper:** "Enhancing Continual Learning in Diabetic Retinopathy: Multimodal Zero-shot Clustering"

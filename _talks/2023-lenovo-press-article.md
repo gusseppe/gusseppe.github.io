@@ -6,6 +6,7 @@ permalink: /talks/2023-lenovo-press-article
 venue: "Lenovo Press"
 date: 2023-04-14
 location: "Online Publication"
+excerpt: "Authored article for Lenovo Press on how autonomous vehicles use the TADIL algorithm to learn from changes in the environment."
 ---
 
 **Article:** "Autonomous Vehicles Use New AI Algorithm to Learn from Changes in the Environment"
