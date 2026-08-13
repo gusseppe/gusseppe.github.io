@@ -4,7 +4,8 @@ excerpt: "LLM-based agent framework for autonomous ML model monitoring in produc
 collection: portfolio
 ---
 
-**GitHub:** [cognitive_architecture_checker](https://github.com/gusseppe/cognitive_architecture_checker)
+**GitHub:** [cognitive_architecture_checker](https://github.com/gusseppe/cognitive_architecture_checker)  
+**Publication:** [AAMAS 2025](https://dl.acm.org/doi/10.5555/3709347.3743552)
 
 LLM-based agent framework that autonomously monitors ML models in production environments. Features novel decision procedure algorithm and structured memories for interpretable model diagnosis. 
 
