@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**Download:** [CV (PDF)](/assets/CV__USA.pdf)
+
 # Summary
 
 - **Generative AI Scientist** with a **PhD in AI**, specializing in AI systems that adapt to real-world change. Built first-of-its-kind **AI agents for production model monitoring and improvement** ([CAMA](https://dl.acm.org/doi/10.5555/3709347.3743552) at AAMAS, [KC-Agent](https://arxiv.org/abs/2608.02351) at IEEE COMPSAC).
