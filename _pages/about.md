@@ -11,11 +11,11 @@ redirect_from:
 ## Generative AI Scientist with Production Skills
 ### AI Research Engineer | PhD in AI
 
-Hi there! I'm Gusseppe Bravo, a **Generative AI Scientist** with a **PhD in AI**, specializing in AI systems that adapt to real-world change. I built first-of-its-kind **AI agents for production model monitoring and improvement** ([CAMA] at AAMAS, [KC-Agent] at IEEE COMPSAC).
+Hi there! I'm Gusseppe Bravo, a **Generative AI Scientist** with a **PhD in AI**, specializing in AI systems that adapt to real-world change. I built first-of-its-kind **AI agents for production model monitoring and improvement** ([CAMA](https://dl.acm.org/doi/10.5555/3709347.3743552) at AAMAS, [KC-Agent](https://arxiv.org/abs/2608.02351) at IEEE COMPSAC).
 
-Currently building **healthcare cognitive architectures at Cotiviti** ([Cotiviti press]). I also contributed to diabetic retinopathy research at Emory Medical Center, and spent **7+ years researching at the Barcelona Supercomputing Center/Lenovo** developing continual learning frameworks for drift datasets ([Lenovo press]).
+Currently building **healthcare cognitive architectures at Cotiviti** ([Cotiviti press](https://www.linkedin.com/posts/cotiviti_helping-machine-learning-models-adapt-to-activity-7490049384605446144-IvKY)). I also contributed to diabetic retinopathy research at Emory Medical Center, and spent **7+ years researching at the Barcelona Supercomputing Center/Lenovo** developing continual learning frameworks for drift datasets ([Lenovo press](https://lenovopress.lenovo.com/lp1716-autonomous-vehicles-use-new-ai-algorithm)).
 
-My work is published in **top-tier AI venues** (AAMAS, ICPR, VISAPP). My PhD research achieved **99% storage reduction** while maintaining **96.9% accuracy** in privacy-sensitive healthcare applications through autonomous prompt evolution ([Springer Nature]).
+My work is published in **top-tier AI venues** (AAMAS, ICPR, VISAPP). My PhD research achieved **99% storage reduction** while maintaining **96.9% accuracy** in privacy-sensitive healthcare applications through autonomous prompt evolution ([Springer Nature](https://link.springer.com/article/10.1007/s42979-026-05036-y)).
 
 **Some facts:** I prototype fast. I measure everything (costs, latency, performance). I follow the old-school unix principles: *do one thing well.*
 
@@ -30,7 +30,7 @@ My work is published in **top-tier AI venues** (AAMAS, ICPR, VISAPP). My PhD res
 - Built an evaluation workflow for benchmarking RAG architectures using the MMLU methodology (multi-choice options).
 
 **Recognised Researcher** - *Barcelona Supercomputing Center & Lenovo*, Spain/USA, part-time (Feb 2026 - Present)
-- Research on cognitive architectures for agents. Just published [KC-Agent] at COMPSAC 2026.
+- Research on cognitive architectures for agents. Just published [KC-Agent](https://arxiv.org/abs/2608.02351) at COMPSAC 2026.
 
 **AI Research Engineer** - *Barcelona Supercomputing Center & Lenovo*, Spain/USA (Feb 2019 - Jan 2026)
 - Architected cognitive frameworks for Language Agents that **autonomously monitor ML model health**, reducing degradation incidents and improving model reliability
